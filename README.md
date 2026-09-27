@@ -13,4 +13,4 @@ AgriHealth client-server, file processing, and secure multi-client system
 linux-administration
 TechNet Solutions Linux file system, scripting, user admin, and troubleshooting labs
 cpp-programming
-Tech Store, Sports Registration, Weather Monitor, and Fitness Membership console apps
+Tech Store, Sports Registration, Weather Monitor, and Fitness Membership console apps 
